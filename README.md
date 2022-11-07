@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning ***java*** for now.
 <br>
 
+
 ### About me
   
 - I'm gratuated from Dogus University. I'm both mechanical and computer engineer. 
