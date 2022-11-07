@@ -19,7 +19,7 @@
   - I like traveling and trips.
   <br>
   <br>
-### Contact Adress
-- 📫 Mail me as Gmail: mehmetarkan6@gmail.com
-- 📫 [Linkedin](https://www.linkedin.com/in/mehmet-ar%C4%B1kan-861a44149/)
-- 📫 [Patika](https://app.patika.dev/mehmetarikannn)
+### Contact Adresses
+1) 📫 Mail me as Gmail: mehmetarkan6@gmail.com
+2) 📫 [Linkedin](https://www.linkedin.com/in/mehmet-ar%C4%B1kan-861a44149/)
+3) 📫 [Patika](https://app.patika.dev/mehmetarikannn)
