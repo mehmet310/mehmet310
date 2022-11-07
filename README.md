@@ -21,9 +21,9 @@
   <br>
   
 ### Contact adressses
-1) 📫 [Linkedin](https://www.linkedin.com/in/mehmet-ar%C4%B1kan-861a44149/)
-2) 📫 [Patika](https://app.patika.dev/mehmetarikannn)
-3) 📫  Gmail :mehmetarkan6@gmail.com
+1) 📫 [Linkedin] <a href="https://www.linkedin.com/in/mehmet-ar%C4%B1kan-861a44149">
+2) 📫 [Patika] <a href="https://app.patika.dev/mehmetarikannn">
+3) 📫  Gmail :<a href="mehmetarkan6@gmail.com">
 
  
 
