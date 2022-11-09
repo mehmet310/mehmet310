@@ -15,7 +15,7 @@
   
 ### My hobbies
   - I generally watch series or watching films.
-  - I like playing strategical games. I'm playing evony:the kings return on my phone for now.
+  - I like playing strategical games.
   - I like traveling and trips.
   - I like listening musics.
   <br>
