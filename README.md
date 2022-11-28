@@ -1,7 +1,7 @@
 # Welcome to my github profile!
 - 👋 Hi, I’m Mehmet. ***You can contact me anytime.*** 
 - 👀 I’m interested in ***back-end development.***
-- 🌱 I’m currently learning ***java*** for now.
+- 🌱 I’m currently learning ***java*** and ***python*** for now.
 <br>
 
 
