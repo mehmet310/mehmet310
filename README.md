@@ -10,7 +10,7 @@
 - I'm gratuated from Dogus University. I'm both mechanical and computer engineer. 
 - I know many software languages but basic levels. I'm still trying to develop my knowledges.
 - I also know mechanical engineering softwares like autocad,solidworks,ansys as high level.
-- I improve my java knowledge at these times.
+- I improve my python knowledge at these times.
   <br>
   
 ### My hobbies
