@@ -1,7 +1,7 @@
 # Welcome to my github profile!
 - 👋 Hi, I’m Mehmet. ***You can contact me anytime.*** 
-- 👀 I’m interested in ***data science and analysises.***
-- 🌱 I’m currently learning ***python*** for now.
+- 👀 I’m interested in ***web development.***
+- 🌱 I’m currently learning ***c# and web tools*** for now.
 <br>
 
 
